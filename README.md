@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Jogo da Velha é meu primeiro projeto com JavaScript e Jquery, é possível ver a construção do site e layout da pagina:
+O Jogo da Velha é meu primeiro projeto com JavaScript e JQuery, é possível ver a construção do site e layout da pagina:
 
 - HomePage - Página inicial do site
 - Cadastro dos Jogadores
